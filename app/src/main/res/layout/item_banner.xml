@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ImageView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:scaleType="fitXY"
+    android:id="@+id/ivItem"
+    tools:src="@drawable/img_spider_man"
+    android:layout_height="180dp">
+</ImageView>

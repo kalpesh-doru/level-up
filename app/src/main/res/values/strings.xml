@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">LevelUpDemo</string>
+    <string name="super_man">Super Man</string>
+    <string name="hulk">Hulk</string>
+    <string name="spider_man">Spider Man</string>
+    <string name="thanos">Thanos</string>
+    <string name="thor">Thor</string>
+    <string name="wonder_woman">Wonder Woman</string>
+    <string name="x_man">X Man</string>
+    <string name="captain_america">Captain America</string>
+    <string name="avengers">Avengers</string>
+    <string name="iron_man">Iron Man</string>
+    <string name="bat_man">Bat Man</string>
+
+    <string name="super_man_details">Clark Joseph Kent, best known by his superhero persona Superman, is a fictional character and a superhero in the DC Extended Universe series of films, based on the character of the same name created by Jerry Siegel and Joe Shuster.</string>
+    <string name="hulk_details">Dr. Bruce Banner lives a life caught between the soft-spoken scientist he\'s always been and the uncontrollable green monster powered by his rage. Exposed to heavy doses of gamma radiation, scientist Bruce Banner transforms into the mean, green rage machine called the Hulk.</string>
+    <string name="spider_man_details">Peter Parker seeks Doctor Strange\'s help to make people forget about Spiderman\'s identity. However, when the spell he casts gets corrupted, several unwanted guests enter their universe.Peter Parker seeks Doctor Strange\'s help to make people forget about Spiderman\'s identity. However, when the spell he casts gets corrupted, several unwanted guests enter their universe.Peter Parker seeks Doctor Strange\'s help to make people forget about Spiderman\'s identity. However, when the spell he casts gets corrupted, several unwanted guests enter their universe.Peter Parker seeks Doctor Strange\'s help to make people forget about Spiderman\'s identity. However, when the spell he casts gets corrupted, several unwanted guests enter their universe.Peter Parker seeks Doctor Strange\'s help to make people forget about Spiderman\'s identity. However, when the spell he casts gets corrupted, several unwanted guests enter their universe.Peter Parker seeks Doctor Strange\'s help to make people forget about Spiderman\'s identity. However, when the spell he casts gets corrupted, several unwanted guests enter their universe.Peter Parker seeks Doctor Strange\'s help to make people forget about Spiderman\'s identity. However, when the spell he casts gets corrupted, several unwanted guests enter their universe.Peter Parker seeks Doctor Strange\'s help to make people forget about Spiderman\'s identity. However, when the spell he casts gets corrupted, several unwanted guests enter their universe.Peter Parker seeks Doctor Strange\'s help to make people forget about Spiderman\'s identity. However, when the spell he casts gets corrupted, several unwanted guests enter their universe.Peter Parker seeks Doctor Strange\'s help to make people forget about Spiderman\'s identity. However, when the spell he casts gets corrupted, several unwanted guests enter their universe.spider_manspider_manspider_manspider_manspider_manspider_manspider_manspider_manspider_manspider_manspider_manspider_manspider_manspider_manspider_manspider_manspider_manspider_manspider_man</string>
+    <string name="thanos_details">Thanos is a supervillain appearing in American comic books published by Marvel Comics. He was created by writer-artist Jim Starlin, and made his first appearance in The Invincible Iron Man</string>
+    <string name="thor_details">Image result for Thor manChris Hemsworth stars as the character in the Marvel Cinematic Universe, first appearing in Thor (2011), and subsequently appearing in The Avengers (2012)</string>
+    <string name="wonder_woman_details">Wonder Woman is a 2017 superhero film based on the DC Comics character of the same name. Produced by Warner Bros. Pictures, Atlas Entertainment and Cruel and Unusual Films, and distributed by Warner Bros.</string>
+    <string name="x_man_details">X-Men is an American superhero film series based on the Marvel Comics superhero team of the same name. 20th Century Fox obtained the film rights to the team and other related characters</string>
+    <string name="captain_america_details">During World War II, Steve Rogers, a frail man, is transformed into the super-soldier Captain America and must stop the Red Skull (Weaving) from using the Tesseract as an energy source for world domination. Captain America</string>
+    <string name="avengers_details">Marvel\'s The Avengers or simply The Avengers, is a 2012 American superhero film based on the … by the film include the biggest weekend per-theater average for a wide </string>
+    <string name="iron_man_details">When Tony Stark, an industrialist, is captured, he constructs a high-tech armoured suit to escape. Once he manages to escape, he decides to use his suit to fight against evil forces to save the world.</string>
+    <string name="bat_man_details">Batman ventures into Gotham City\'s underworld when a sadistic killer leaves behind a trail of cryptic clues. As the evidence begins to lead closer to home and the scale of the perpetrator\'s plans become clear, he must forge new relationships, unmask the culprit and bring justice to the abuse of power and corruption that has long plagued the metropolis.</string>
+
+</resources>
