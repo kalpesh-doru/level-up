@@ -2,7 +2,6 @@ package com.imkalpesh.levelupdemo
 
 import android.os.Bundle
 import android.widget.AbsListView
-import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.LinearSnapHelper
@@ -27,8 +26,6 @@ class MainActivity : AppCompatActivity() {
             contactToPgmOptionsMutableList.add(BannersModel(8, getString(R.string.wonder_woman),getString(R.string.wonder_woman_details), R.drawable.img_wonder_woman))
             contactToPgmOptionsMutableList.add(BannersModel(9, getString(R.string.iron_man),getString(R.string.iron_man_details), R.drawable.img_iron_man_two))
             contactToPgmOptionsMutableList.add(BannersModel(10, getString(R.string.x_man),getString(R.string.x_man_details), R.drawable.img_x_man))
-            contactToPgmOptionsMutableList.add(BannersModel(11, getString(R.string.captain_america),getString(R.string.captain_america_details), R.drawable.img_captain_america_two))
-            contactToPgmOptionsMutableList.add(BannersModel(12, getString(R.string.iron_man),getString(R.string.iron_man_details), R.drawable.img_iron_man))
         tvPage.text = "1 / ${contactToPgmOptionsMutableList.size}"
         rvBanners.layoutManager = LinearLayoutManager(this, LinearLayoutManager.HORIZONTAL, false)
         val snapHelper: SnapHelper = LinearSnapHelper()
@@ -48,6 +45,5 @@ class MainActivity : AppCompatActivity() {
                 }
             }
         })
-        tvContent.setOnClickListener { Toast.makeText(this@MainActivity, "Yeaah", Toast.LENGTH_SHORT).show() }
     }
 }
